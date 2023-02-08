@@ -1,4 +1,3 @@
-- 
 - 👋 Hi, I’m @Efoneli (Abba Efoneli Sarah)🤹‍♀️
 - 👀 I’m interested in FrontEnd Development, REACTjs, Tailwind CSS🎐.
 - 🌱 I’m currently learning NEXT js🚀
