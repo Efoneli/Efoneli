@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abba Efoeneli Sarah</h1>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
 
-<img align="right" width="400" src="https://github.com/Efoneli/Efoneli/assets/99126007/cb19c94f-9789-4320-b331-ece2d601b3fe.gif" alt="gif">
+<img align="right" width="400" src="https://github.com/Efoneli/Efoneli/assets/99126007/321d522c-4dad-4dbd-8c46-95e785cd562b.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efoneli&label=Profile%20views&color=0e75b6&style=flat" alt="efoneli" /> </p>
 
