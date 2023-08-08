@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abba Efoeneli Sarah</h1>
+![banner (1)](https://github.com/Efoneli/Efoneli/assets/99126007/7438dc96-7284-485b-8486-6b9d7d1507a4)
+<h1 align="cente![Uploading banner.png…]()
+r">Hi 👋, I'm Abba Efoneli Sarah</h1>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
 
 <img align="right" width="400" src="https://github.com/Efoneli/Efoneli/assets/99126007/321d522c-4dad-4dbd-8c46-95e785cd562b.gif" alt="gif">
