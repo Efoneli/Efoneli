@@ -1,4 +1,4 @@
-![banner (1)](https://github.com/Efoneli/Efoneli/assets/99126007/7438dc96-7284-485b-8486-6b9d7d1507a4)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Efoneli/Efoneli/assets/99126007/35ff423d-fcd3-4620-92f2-acc702892fdd)
 <h1 align="cente![Uploading banner.png…]()
 r">Hi 👋, I'm Abba Efoneli Sarah</h1>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
